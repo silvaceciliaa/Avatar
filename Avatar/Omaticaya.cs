@@ -3,7 +3,7 @@ namespace Avatar
 {
     public class Omaticaya : Navi
     {
-        public Omaticaya(string nome, double altura, string cor) : base(nome, altura, cor)
+        public Omaticaya(string nome, double altura, string cor, string lingua, string rabo) : base(nome, altura, cor, lingua, rabo)
         {
 
         }
@@ -11,7 +11,7 @@ namespace Avatar
         public override void Apresentar()
         {
             base.Apresentar();
-            Console.WriteLine($"Sou o {Nome}, clã Omaticaya");
+            Console.WriteLine($" Sou o {Nome}, clã Omaticaya");
         }
 
         public void Escalar()

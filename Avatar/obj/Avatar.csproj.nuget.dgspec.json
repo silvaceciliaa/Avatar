@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amarofilho/Projects/Avatar/Avatar/Avatar.csproj": {}
+    "C:\\Users\\Camilla\\Desktop\\POOcomAvatar\\Avatar\\Avatar.csproj": {}
   },
   "projects": {
-    "/Users/amarofilho/Projects/Avatar/Avatar/Avatar.csproj": {
+    "C:\\Users\\Camilla\\Desktop\\POOcomAvatar\\Avatar\\Avatar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amarofilho/Projects/Avatar/Avatar/Avatar.csproj",
+        "projectUniqueName": "C:\\Users\\Camilla\\Desktop\\POOcomAvatar\\Avatar\\Avatar.csproj",
         "projectName": "Avatar",
-        "projectPath": "/Users/amarofilho/Projects/Avatar/Avatar/Avatar.csproj",
-        "packagesPath": "/Users/amarofilho/.nuget/packages/",
-        "outputPath": "/Users/amarofilho/Projects/Avatar/Avatar/obj/",
+        "projectPath": "C:\\Users\\Camilla\\Desktop\\POOcomAvatar\\Avatar\\Avatar.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Camilla\\Desktop\\POOcomAvatar\\Avatar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/amarofilho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

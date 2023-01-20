@@ -1,0 +1,1 @@
+Projeto criado com o objetivo de aplicar as competências adquiridas no decorrer do curso Programando com Orientação a Objetos C# realizado na DIO.  O objetivo da aplicação é utilizar os quatro pilares da Programação Orientada a Objeto - abstração, encapsulamento, herança e polimorfismo - com o exemplo prático da duologia Avatar.

@@ -6,16 +6,25 @@ namespace Avatar
         private string Nome;
         private double Altura;
 
-        public void Apresentar(string nome, double altura)
+        public SkyPeople(string nome, double altura)
         {
             Nome = nome;
             Altura = altura;
-            Console.WriteLine($"Olá! Sou o {Nome} e tenho {Altura} metros de Altura");
+            
+        }
+        public void Apresentar()
+        {
+            Console.WriteLine($"Olá! Sou o {Nome} e sou humano");
+        }
+
+        public void Caracteristicas()
+        {
+            Console.WriteLine($"{Nome} tem {Altura} metros de altura");
         }
 
         public void Falar()
         {
-            Console.WriteLine(Nome + " Falou");
+            Console.WriteLine(Nome + " falou");
         }
     }
 }

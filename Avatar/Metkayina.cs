@@ -21,6 +21,11 @@ namespace Avatar
             base.Caracteristicas();
             Console.WriteLine($"Metkayina tem {SegundaLingua} como segunda língua");
         }
+
+        public void Mergulhar()
+        {
+            Console.WriteLine(Nome + " mergulhou");
+        }
     }
 }
 

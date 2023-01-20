@@ -29,7 +29,7 @@ namespace Avatar
         }
         public void Conectar()
         {
-            Console.WriteLine(Nome + "conectou");
+            Console.WriteLine(Nome + " conectou");
         }
     }
 }

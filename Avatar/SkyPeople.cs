@@ -14,7 +14,7 @@ namespace Avatar
         }
         public void Apresentar()
         {
-            Console.WriteLine($"Olá! Sou o {Nome} e sou humano");
+            Console.WriteLine($" Olá! Sou o {Nome} e sou humano");
         }
 
         public void Caracteristicas()

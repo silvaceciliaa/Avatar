@@ -15,7 +15,7 @@ namespace Avatar
 
         public void Falar()
         {
-            Console.WriteLine(Nome + " Falou");
+            Console.WriteLine(Nome + " falou");
         }
     }
 }

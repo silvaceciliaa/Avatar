@@ -1,0 +1,15 @@
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.csproj.AssemblyReference.cache
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.AssemblyInfoInputs.cache
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.AssemblyInfo.cs
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.csproj.CoreCompileInputs.cache
+/Users/amarofilho/Projects/Avatar/Avatar/bin/Debug/net7.0/Avatar
+/Users/amarofilho/Projects/Avatar/Avatar/bin/Debug/net7.0/Avatar.deps.json
+/Users/amarofilho/Projects/Avatar/Avatar/bin/Debug/net7.0/Avatar.runtimeconfig.json
+/Users/amarofilho/Projects/Avatar/Avatar/bin/Debug/net7.0/Avatar.dll
+/Users/amarofilho/Projects/Avatar/Avatar/bin/Debug/net7.0/Avatar.pdb
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.dll
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/refint/Avatar.dll
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.pdb
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/Avatar.genruntimeconfig.cache
+/Users/amarofilho/Projects/Avatar/Avatar/obj/Debug/net7.0/ref/Avatar.dll
